@@ -1,6 +1,6 @@
-name: torom-bot
+name: torom-bot 
 
-on:
+on: true 
   push:
     branches:
       - main
